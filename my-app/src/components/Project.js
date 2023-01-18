@@ -1,6 +1,6 @@
 import React from 'react';
-import ProjectCards from '../Portfolio';
-import portfolio from '../../portfolio.json'
+import ProjectCards from './Portfolio';
+import portfolio from '../portfolio.json'
 
 function Card(props) {
     return <div className='card'>{props.children}</div>;
