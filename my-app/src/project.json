@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Gentle Strength Gems",
+        "image": "",
+        "github": "https://github.com/Hrzonca/GentleStrengthGems",
+        "deploy": "https://hrzonca.github.io/GentleStrengthGems/"
+    },
+    {
+        "id": 2,
+        "name": "Wei-Full",
+        "image": "",
+        "github": "https://github.com/Hrzonca/wei-full",
+        "deploy": ""
+    },
+    {
+        "id": 3,
+        "name": "txtedit-pwa",
+        "image": "",
+        "github": "https://github.com/Hrzonca/txtedit-pwa",
+        "deploy": "https://txtedit-pwa.herokuapp.com/"
+    },
+    {
+        "id": 4,
+        "name": "Data Deposits",
+        "image": "",
+        "github": "https://github.com/Hrzonca/data-deposits",
+        "deploy": ""
+    },
+    {
+        "id": 5,
+        "name": "Company Info",
+        "image": "",
+        "github": "https://github.com/Hrzonca/company-info",
+        "deploy": "Comand-line application"
+    },
+    {
+        "id": 6,
+        "name": "There's a note for that",
+        "image": "",
+        "github": "https://github.com/Hrzonca/theres-a-note-for-that",
+        "deploy": "Start server locally"
+    },
+    {
+        "id": 7,
+        "name": "Company Info",
+        "image": "",
+        "github": "https://github.com/Hrzonca/company-info",
+        "deploy": "Comand-line application"
+    },
+    {
+        "id": 8,
+        "name": "Company Info",
+        "image": "",
+        "github": "https://github.com/Hrzonca/company-info",
+        "deploy": "Comand-line application"
+    }
+
+]
