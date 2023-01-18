@@ -5,7 +5,7 @@ function Header({ currentPage, handlePageChange }) {
         <ul className="nav">
             <li className="nav-content">
                 <a
-                    href="#about"
+                    href= '/About'
                     onClick={() => handlePageChange('About')}
                     className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
                 >
@@ -14,7 +14,7 @@ function Header({ currentPage, handlePageChange }) {
             </li>
             <li className="nav-content">
                 <a
-                    href="#Portfolio"
+                    href="/Portfolio"
                     onClick={() => handlePageChange('Portfolio')}
                     className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
                 >
@@ -23,7 +23,7 @@ function Header({ currentPage, handlePageChange }) {
             </li>
             <li className="nav-content">
                 <a
-                    href="#Contact"
+                    href="/Contact"
                     onClick={() => handlePageChange('Contact')}
                     className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
                 >
@@ -32,11 +32,11 @@ function Header({ currentPage, handlePageChange }) {
             </li>
             <li className="nav-content">
                 <a
-                    href="#Resume"
+                    href="/Resume"
                     onClick={() => handlePageChange('Resume')}
                     className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
                 >
-                    Contact
+                    Resume
                 </a>
             </li>
         </ul>
